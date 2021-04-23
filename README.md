@@ -1,2 +1,2 @@
 # CV-Assignments
-Spring 2021 
+Assignments as part of Computer Vision course in spring 2021 
